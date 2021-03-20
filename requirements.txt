@@ -26,7 +26,7 @@ gensim==3.5.0
 grpcio==1.13.0
 h5py==2.8.0
 idna==2.6
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 joblib==0.12.2
 Keras==2.1.6
