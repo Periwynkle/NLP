@@ -47,7 +47,7 @@ plac==0.9.6
 pluggy==0.7.1
 preshed==2.0.1
 protobuf==3.6.0
-py==1.5.4
+py==1.10.0
 pyemd==0.5.1
 pyLDAvis==2.1.2
 pyparsing==2.2.0
