@@ -46,7 +46,7 @@ Pillow==5.1.0
 plac==0.9.6
 pluggy==0.7.1
 preshed==2.0.1
-protobuf==3.6.0
+protobuf==3.15.0
 py==1.5.4
 pyemd==0.5.1
 pyLDAvis==2.1.2
