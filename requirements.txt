@@ -42,7 +42,7 @@ murmurhash==1.0.1
 numexpr==2.6.8
 numpy==1.15.4
 pandas==0.22.0
-Pillow==5.1.0
+Pillow==9.0.1
 plac==0.9.6
 pluggy==0.7.1
 preshed==2.0.1
